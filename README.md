@@ -128,23 +128,8 @@ Every metric value is appended to the CSV as soon as it is computed, and combina
 | `ensemble_size` | 10 for `spe`, `ubag`, `obag`, `sbag` and `bag`; 1 for all other methods |
 | `tuning_mode` | Always `default` |
 
-## Citation
-
-If you use this code, please cite the paper:
-
-```
-R. Habib, "Evaluating Class-Imbalanced Learning Methods Across Base Classifiers:
-A Focused Extension of the CLIMB Benchmark," 2026.
-```
-
-and the original benchmark:
-
-```
-Z. Liu, Z. Li, Z. Yang, T. Wei, J. Kang, Y. Zhu, H. Hamann, J. He, and H. Tong,
-"CLIMB: Class-imbalanced Learning Benchmark on Tabular Data,"
-Advances in Neural Information Processing Systems 38, 2025. arXiv:2505.17451.
-```
 
 ## Contact
 
 Rabia Habib, Department of Computer Science, Kinnaird College for Women University, Lahore, Pakistan.
+Email: rhkhan0411@gmail.com
