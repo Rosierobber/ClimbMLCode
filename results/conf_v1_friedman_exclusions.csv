@@ -1,0 +1,22 @@
+classifier,metric,dataset,reason
+logistic_regression,auprc,blood-transfusion-service-center,Incomplete 5-fold result for at least one method
+logistic_regression,auprc,haberman,Incomplete 5-fold result for at least one method
+logistic_regression,auprc,phoneme,Incomplete 5-fold result for at least one method
+logistic_regression,auprc,planning-relax,Incomplete 5-fold result for at least one method
+logistic_regression,auprc,thoracic-surgery,Incomplete 5-fold result for at least one method
+logistic_regression,auprc,vehicle,Incomplete 5-fold result for at least one method
+logistic_regression,auprc,vertebra-column,Incomplete 5-fold result for at least one method
+logistic_regression,macro_f1,blood-transfusion-service-center,Incomplete 5-fold result for at least one method
+logistic_regression,macro_f1,haberman,Incomplete 5-fold result for at least one method
+logistic_regression,macro_f1,phoneme,Incomplete 5-fold result for at least one method
+logistic_regression,macro_f1,planning-relax,Incomplete 5-fold result for at least one method
+logistic_regression,macro_f1,thoracic-surgery,Incomplete 5-fold result for at least one method
+logistic_regression,macro_f1,vehicle,Incomplete 5-fold result for at least one method
+logistic_regression,macro_f1,vertebra-column,Incomplete 5-fold result for at least one method
+logistic_regression,balanced_accuracy,blood-transfusion-service-center,Incomplete 5-fold result for at least one method
+logistic_regression,balanced_accuracy,haberman,Incomplete 5-fold result for at least one method
+logistic_regression,balanced_accuracy,phoneme,Incomplete 5-fold result for at least one method
+logistic_regression,balanced_accuracy,planning-relax,Incomplete 5-fold result for at least one method
+logistic_regression,balanced_accuracy,thoracic-surgery,Incomplete 5-fold result for at least one method
+logistic_regression,balanced_accuracy,vehicle,Incomplete 5-fold result for at least one method
+logistic_regression,balanced_accuracy,vertebra-column,Incomplete 5-fold result for at least one method

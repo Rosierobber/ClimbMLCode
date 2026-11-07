@@ -1,0 +1,25 @@
+dataset,metric,reason,details
+blood-transfusion-service-center,auprc,Incomplete 5-fold results,logistic_regression/cost: 3/5 folds
+blood-transfusion-service-center,macro_f1,Incomplete 5-fold results,logistic_regression/cost: 3/5 folds
+blood-transfusion-service-center,balanced_accuracy,Incomplete 5-fold results,logistic_regression/cost: 3/5 folds
+haberman,auprc,Incomplete 5-fold results,logistic_regression/cost: 2/5 folds
+haberman,macro_f1,Incomplete 5-fold results,logistic_regression/cost: 2/5 folds
+haberman,balanced_accuracy,Incomplete 5-fold results,logistic_regression/cost: 2/5 folds
+law-school-admission-bianry,auprc,Kendall tau-b undefined because ranking is constant,decision_tree has only one unique score across the 10 methods
+law-school-admission-bianry,macro_f1,Kendall tau-b undefined because ranking is constant,decision_tree has only one unique score across the 10 methods
+law-school-admission-bianry,balanced_accuracy,Kendall tau-b undefined because ranking is constant,decision_tree has only one unique score across the 10 methods
+phoneme,auprc,Incomplete 5-fold results,logistic_regression/cost: 0/5 folds
+phoneme,macro_f1,Incomplete 5-fold results,logistic_regression/cost: 0/5 folds
+phoneme,balanced_accuracy,Incomplete 5-fold results,logistic_regression/cost: 0/5 folds
+planning-relax,auprc,Incomplete 5-fold results,logistic_regression/cost: 0/5 folds
+planning-relax,macro_f1,Incomplete 5-fold results,logistic_regression/cost: 0/5 folds
+planning-relax,balanced_accuracy,Incomplete 5-fold results,logistic_regression/cost: 0/5 folds
+thoracic-surgery,auprc,Incomplete 5-fold results,logistic_regression/cost: 3/5 folds
+thoracic-surgery,macro_f1,Incomplete 5-fold results,logistic_regression/cost: 3/5 folds
+thoracic-surgery,balanced_accuracy,Incomplete 5-fold results,logistic_regression/cost: 3/5 folds
+vehicle,auprc,Incomplete 5-fold results,logistic_regression/cost: 4/5 folds
+vehicle,macro_f1,Incomplete 5-fold results,logistic_regression/cost: 4/5 folds
+vehicle,balanced_accuracy,Incomplete 5-fold results,logistic_regression/cost: 4/5 folds
+vertebra-column,auprc,Incomplete 5-fold results,logistic_regression/cost: 4/5 folds
+vertebra-column,macro_f1,Incomplete 5-fold results,logistic_regression/cost: 4/5 folds
+vertebra-column,balanced_accuracy,Incomplete 5-fold results,logistic_regression/cost: 4/5 folds

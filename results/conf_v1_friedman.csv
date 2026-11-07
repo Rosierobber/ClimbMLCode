@@ -1,0 +1,7 @@
+classifier,metric,n_datasets,friedman_statistic,p_value,status
+decision_tree,auprc,20,133.25973197192093,2.5309226371009066e-24,ok
+decision_tree,macro_f1,20,79.88002552648373,1.7072874074391511e-13,ok
+decision_tree,balanced_accuracy,20,68.6343331206127,2.819125896220221e-11,ok
+logistic_regression,auprc,13,57.85079051383399,3.471716196602982e-09,ok
+logistic_regression,macro_f1,13,29.4646564508156,0.000540838894800879,ok
+logistic_regression,balanced_accuracy,13,51.26261127596441,6.229706611166006e-08,ok
